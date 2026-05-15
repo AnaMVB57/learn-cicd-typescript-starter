@@ -1,0 +1,7 @@
+allowBuilds:
+  es5-ext: false
+  esbuild: false
+minimumReleaseAgeExclude:
+  - esbuild@0.24.3
+overrides:
+  esbuild: 0.28.0
